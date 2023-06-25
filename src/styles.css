@@ -56,3 +56,7 @@ li {
 .capitalize {
     text-transform: capitalize;
 }
+.open-source-link {
+    margin: 20px auto;
+    max-width: 600px;
+}
